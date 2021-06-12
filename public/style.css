@@ -33,7 +33,7 @@ video {
   object-fit: cover;
   border: 5px solid #000;
   max-width: 600px;
-  max-height: 500px;
+  max-height: 300px;
   overflow: hidden;
 }
 .main {
